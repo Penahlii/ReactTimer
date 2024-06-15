@@ -1,0 +1,15 @@
+.timer-input {
+  margin: 20px 0;
+}
+
+.timer-input input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 60px;
+  margin-right: 10px;
+}
+
+.timer-input button {
+  padding: 10px 20px;
+}
